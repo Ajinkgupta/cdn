@@ -38,7 +38,7 @@ body {
     font-size: 48px;
 }
 :root {
-    --primary-rgb: 255, 167, 38;
+    --primary-rgb:255,153,51;
     --primary: rgb(var(--primary-rgb));
     --primary-dark: #ff9933;
     --primary-light: #9a67ea;
