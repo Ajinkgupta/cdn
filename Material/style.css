@@ -40,7 +40,7 @@ body {
 :root {
     --primary-rgb: 255, 167, 38;
     --primary: rgb(var(--primary-rgb));
-    --primary-dark: #ffa726;
+    --primary-dark: #ff9933;
     --primary-light: #9a67ea;
     --secondary: #ffab91;
     --secondary-dark: #c97b63;
@@ -625,7 +625,7 @@ select {
     width: 60px;
     margin-left: -70px;
 }
-.qa-part-form-profile .qa-avatar-image {
+.qa-form-tall-image .qa-avatar-image {
     position: absolute;
     height: 200px;
     width: 200px;
@@ -633,10 +633,7 @@ select {
     overflow: hidden;
     transform: translateX(-50%);
 }
-.qa-avatar-image {
-    width: 100%;
-    height: auto;
-}
+
 .qa-q-item-when, .qa-q-item-where-data, .qa-q-item-who-data {
     font-weight: 500;
 }
@@ -1125,4 +1122,12 @@ content:'mail_outline'
   border-radius: 10px;
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2);
 }
-    
+.qa-q-list-item{border-radius:10px;}
+.qa-widget-main-high {
+    background-color: white;
+    color:black;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
+}
