@@ -2216,10 +2216,10 @@ select option {
     margin-left: 0;
   }
   .qa-main {
-    width: calc(100% - 400px);
+    width: calc(100% - 300px);
   }
   .qa-sidepanel {
-    width: 400px;
+    width: 300px;
   }
 }
 @media (min-width: 1440px) {
