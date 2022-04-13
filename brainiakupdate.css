@@ -19,7 +19,7 @@
   find them from here https://material.io/resources/color
 */
 :root {
-  --primary-700: #002de3;
+  --primary-700:#FFBF00;
   --primary-700-rgb: 255, 191, 0; /* convert --primary-700 to rgb */
   --primary-light-700: #4b6fff;
   --primary-dark-700: #001e94;
