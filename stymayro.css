@@ -19,13 +19,13 @@
   find them from here https://material.io/resources/color
 */
 :root {
-  --primary-700: #002de3;
-  --primary-700-rgb: 65, 102, 245; /* convert --primary-700 to rgb */
-  --primary-light-700: #4b6fff;
-  --primary-dark-700: #001e94;
-  --primary-200: #738fff;
+  --primary-700: #FF8A00;
+  --primary-700-rgb: 255, 138, 0; /* convert --primary-700 to rgb */
+  --primary-light-700: #FF8A00;
+  --primary-dark-700: #fca43d;
+  --primary-200: #d47300;
 
-  --secondary-200: #ffab91;
+  --secondary-200: #c2fdff;
   --secondary-dark-200: #c97b63;
   --secondary-light-200: #ffddc1;
   --secondary-100: #ffccbc;
