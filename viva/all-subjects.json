@@ -1,0 +1,38 @@
+{
+  "aoa": [
+    "What is the difference between abstraction and encapsulation?",
+    "What is polymorphism?",
+    "What is inheritance?",
+    "What is a class?",
+    "What is an object?",
+    "What is a constructor?",
+    "What is a destructor?",
+    "What is a pointer?",
+    "What is a reference?",
+    "What is an array?"
+  ],
+  "os": [
+    "What is a process?",
+    "What is a thread?",
+    "What is multitasking?",
+    "What is multiprogramming?",
+    "What is a scheduler?",
+    "What is a context switch?",
+    "What is a deadlock?",
+    "What is a race condition?",
+    "What is a semaphore?",
+    "What is virtual memory?"
+  ],
+  "dbms": [
+    "What is a database?",
+    "What is a DBMS?",
+    "What is a table?",
+    "What is a record?",
+    "What is a field?",
+    "What is a primary key?",
+    "What is a foreign key?",
+    "What is normalization?",
+    "What is a query?",
+    "What is a transaction?"
+  ]
+}
